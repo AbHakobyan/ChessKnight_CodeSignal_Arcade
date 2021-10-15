@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessKnight_CodeSignal_Arcade", "ChessKnight_CodeSignal_Arcade\ChessKnight_CodeSignal_Arcade.csproj", "{BEF527BD-DFF3-441E-9755-9219865AAE3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEF527BD-DFF3-441E-9755-9219865AAE3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF527BD-DFF3-441E-9755-9219865AAE3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEF527BD-DFF3-441E-9755-9219865AAE3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEF527BD-DFF3-441E-9755-9219865AAE3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {526F7BFF-79ED-404D-8B14-9D031E3126C9}
+	EndGlobalSection
+EndGlobal
